@@ -2,7 +2,7 @@
 
 ## Resources
 
-Add the resources here
+Add the resources here (Resources will be updated soon.)
 
 ## Recording
 
