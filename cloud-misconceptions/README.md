@@ -2,11 +2,13 @@
 
 ## Resources
 
-Add the resources here
+**Figma slides**: https://www.figma.com/slides/GweJBEsGd9zTphPpdh9cFK/Clearing-out-your-cloudy-misconceptions?node-id=1-668&t=XvIToQDvooVJTc49-1
 
-## Recording
+**Tools mentioned during the talk: **
+1. [KillerCoda](https://killercoda.com/)
+2. [KodeCloud](https://kodekloud.com/)
 
-You can find this talk on YouTube here:
+**CNCF Landscape**: https://landscape.cncf.io/
 
 ## Author
 
