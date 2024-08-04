@@ -2,11 +2,9 @@
 
 ## Resources
 
-Add the resources here
+Check out the GitHub Student Developer Pack here: https://education.github.com/benefits?utm_source=2024-08-04-BIOSCOMMUNITYEVENT
 
-## Recording
-
-You can find this talk on YouTube here:
+Here's the link for Cloud Native Nashik's Discord server: https://discord.gg/yN7CTTdGfV
 
 ## Author
 
