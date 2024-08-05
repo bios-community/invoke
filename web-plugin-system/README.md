@@ -1,4 +1,4 @@
-# Building a plugin system for the web
+# Building a plugin system on the web
 
 ## Resources
 
